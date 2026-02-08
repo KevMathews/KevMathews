@@ -10,8 +10,8 @@
 
 <!-- SOCIAL BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kevmathews.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevMathews)
-[![Visitors](https://komarev.com/ghpvc/?username=KevMathews&style=for-the-badge&color=45B7D1&label=PROFILE+VIEWS)](https://github.com/KevMathews)
+[![GitHub](https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevmathews)
+[![Visitors](https://komarev.com/ghpvc/?username=kevmathews&style=for-the-badge&color=45B7D1&label=PROFILE+VIEWS)](https://github.com/kevmathews)
 
 </div>
 
@@ -86,8 +86,8 @@ const kevin = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=KevMathews&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&ring_color=4ECDC4" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevMathews&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kevmathews&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&ring_color=4ECDC4" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevmathews&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" width="42%" />
 
 ---
 
