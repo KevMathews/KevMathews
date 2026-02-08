@@ -86,8 +86,11 @@ const kevin = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevmathews&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&ring_color=4ECDC4" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevmathews&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" width="42%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevmathews&theme=radical" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevmathews&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevmathews&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevmathews&theme=radical" width="32%" />
 
 ---
 
